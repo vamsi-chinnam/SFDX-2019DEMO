@@ -1,0 +1,242 @@
+[
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548145992381,
+            "changeTime": 1548145992381,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548145992381,
+            "changeTime": 1548145992381,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548145992382,
+            "changeTime": 1548145992382,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548148438860,
+            "changeTime": 1548148438860,
+            "contentHash": "db8ac1c259eb89d4a131b253bacfca5f319d54f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548148438907,
+            "changeTime": 1548148438907,
+            "contentHash": "f7d1a6214b407b0601d37ea3df189dd4265b5c4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1548148438903,
+            "changeTime": 1548148438903,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 48,
+            "modifiedTime": 1548148470566,
+            "changeTime": 1548148470566,
+            "contentHash": "e5e353835b0f1fbeb4d952851f9e980763912f24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1548148438867,
+            "changeTime": 1548148438867,
+            "contentHash": "c5aaf639a41c98268d81aaa19c3a350041144d75",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.css",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1548148438886,
+            "changeTime": 1548148438886,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.design",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1548148438908,
+            "changeTime": 1548148438908,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.svg",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorld.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1548148438897,
+            "changeTime": 1548148438897,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldController.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1548148438874,
+            "changeTime": 1548148438874,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1548148438880,
+            "changeTime": 1548148438880,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\aura\\HelloWorld\\HelloWorldRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1548148438891,
+            "changeTime": 1548148438891,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548146092158,
+            "changeTime": 1548146092158,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\vamsi.chinnam\\Desktop\\SFDX_Github\\SFDX_Github",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548148165469,
+            "changeTime": 1548148165469,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
